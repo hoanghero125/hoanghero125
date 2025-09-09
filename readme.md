@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
-<h3 align="center">Junior Data Scientist, AI Engineer / Researcher, (Ex) Full Stack Developer.</h3>
+<h3 align="center">Junior Data Scientist, AI Engineer; Full Stack Developer.</h3>
 
 - 🏫 I'm currently studying **Information Technology** (2nd year) at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/)
 
-- 🔭 I’m currently working as a **Data Scientist intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/)
+- 🔭 I’m currently working as an **intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/)
 
 
 
