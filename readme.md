@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 <h3 align="center">Junior Data Scientist, AI Engineer; Full Stack Developer.</h3>
 
-- 🏫 I'm currently studying **Information Technology** (2nd year) at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/)
-
-- 🔭 I’m currently working as an **Intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/) and **Lab Assistant** at **PTIT's Faculty of Artificial Intelligence**.
-
-
-
+- 🏫 Sophomore in **Information Technology** (2nd year) at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/)
+- 🔭 **Intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/).
+- 📃 **Lab Assistant** at [**PTIT's Faculty of Artificial Intelligence**](https://ai.ptit.edu.vn/).
 - 📫 Reach me via email: **dekuran.business@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Network:</h3>
 <p align="left">
 <a href="https://fb.com/dekuranvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dekuranvn" height="30" width="40" /></a>
 <a href="https://instagram.com/dekuranvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dekuranvn" height="30" width="40" /></a>
