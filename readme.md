@@ -3,7 +3,7 @@
 
 - 🏫 I'm currently studying **Information Technology** (2nd year) at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/)
 
-- 🔭 I’m currently working as an **intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/) and **lab assistant" at **PTIT's Faculty of Artificial Intelligence**.
+- 🔭 I’m currently working as an **Intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/) and **Lab Assistant** at **PTIT's Faculty of Artificial Intelligence**.
 
 
 
