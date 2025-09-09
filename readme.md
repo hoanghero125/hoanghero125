@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 <h3 align="center">Full Stack Developer | Junior AI Engineer.</h3>
 
-- 🏫 Sophomore in **Information Technology** (2nd year) at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/)
+- 🏫 Sophomore in **Information Technology** at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/)
 - 🔭 **AI R&D Intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/).
 - 📃 **Lab Assistant** at [**PTIT's Faculty of Artificial Intelligence**](https://ai.ptit.edu.vn/).
 - 📫 Reach me via email: **dekuran.business@gmail.com**
