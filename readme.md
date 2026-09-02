@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 <h2 align="center">AI Engineer | Full Stack Developer</h3>
 
-- 🏫 **2nd-year undergraduate** in **Information Technology** at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/).
+- 🏫 **3rd-year undergraduate** in **Information Technology** at [**Posts and Telecommunications Institute of Technology**](https://ptit.edu.vn/).
 - 🔭 **AI Intern** at [**Savvycom**](https://savvycom.vn/).
 - 📃 **Lab Assistant** at [**PTIT's Faculty of Artificial Intelligence**](https://ai.ptit.edu.vn/).
 - 📃 **Research Assistant** at [**Young Innovation Research Laboratory on Digital Technology - PTIT**](https://www.facebook.com/YIRLODT).
